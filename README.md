@@ -28,7 +28,7 @@ A tiny regression dataset where the target follows `y = x1^2 + 2 * x2`:
 
 - This is just for understanding the backpropagation works underthehood.
 ### This is the GRAPH LOSS_FUNC w.r.t Per_epoch:
-<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/1add6403-7d8e-45e0-ba7f-c8745f070c94" />
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/1add6403-7d8e-45e0-ba7f-c8745f070c94" />
 
 
 ## Requirements
